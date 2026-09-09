@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech in Computer Science, Rajasthan Technical University, Kota (Graduated 2025, CGPA: 7.96)
+- 🎓 B.Tech in Computer Science, Rajasthan Technical University, Kota (Graduated 2025)
 - 💻 Full-stack JavaScript developer skilled in the **MERN stack**
 - 🔧 Strong foundation in REST API design, database modeling, and third-party API integration
 - 🚀 Hands-on experience building real-time systems, e-commerce platforms, and AI-driven tools
